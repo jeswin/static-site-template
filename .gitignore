@@ -30,5 +30,4 @@ node_modules
 #Nothing in dist
 
 dist/*
-public/*
 
