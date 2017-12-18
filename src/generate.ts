@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import frontMatter = require("front-matter");
 import marked = require("marked");
 import readDir = require("recursive-readdir");
@@ -61,5 +62,5 @@ if (inputDir && outputDir) {
     (err: any) => console.log(err)
   );
 } else {
-  console.log("Usage is <script.js> inputDir outputDir");
+  console.log("Usage is <script.js> <input-directory> <output-directory>");
 }
