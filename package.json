@@ -5,7 +5,7 @@
     "@types/node": "^13.13.4",
     "@types/recursive-readdir": "^2.2.0",
     "front-matter": "^3.1.0",
-    "marked": "^1.0.0",
+    "marked": "^4.0.10",
     "nodefunc-promisify": "^2.0.2",
     "pretty": "^2.0.0",
     "recursive-readdir": "^2.2.2"
